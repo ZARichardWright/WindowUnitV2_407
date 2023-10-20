@@ -1,0 +1,16 @@
+minmea.c:20:12:hex2int	16	static
+minmea.c:31:9:minmea_checksum	24	static
+minmea.c:46:6:minmea_check	32	static
+minmea.c:89:20:minmea_isfield	16	static
+minmea.c:93:6:minmea_scan	164	static
+minmea.c:340:6:minmea_talker_id	24	static
+minmea.c:353:25:minmea_sentence_id	24	static
+minmea.c:382:6:minmea_parse_rmc	104	static
+minmea.c:412:6:minmea_parse_gga	112	static
+minmea.c:440:6:minmea_parse_gsa	152	static
+minmea.c:471:6:minmea_parse_gll	64	static
+minmea.c:495:6:minmea_parse_gst	80	static
+minmea.c:517:6:minmea_parse_gsv	168	static
+minmea.c:556:6:minmea_parse_vtg	72	static
+minmea.c:590:6:minmea_parse_zda	64	static
+minmea.c:616:5:minmea_gettime	72	static

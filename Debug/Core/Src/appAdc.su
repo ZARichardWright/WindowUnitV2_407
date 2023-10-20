@@ -1,0 +1,3 @@
+appAdc.c:16:14:tempCal	24	static
+appAdc.c:26:6:StartAdcTask	56	static
+appAdc.c:136:6:HAL_ADC_ConvCpltCallback	16	static

@@ -1,0 +1,7 @@
+pid.c:13:5:pid_i32_init	40	static
+pid.c:56:9:pid_i32_calc	48	static
+pid.c:104:9:pid_i32_scale	16	static
+pid.c:108:5:pid_i32_reset_int	16	static
+pid.c:118:5:pid_f32_init	32	static
+pid.c:152:7:pid_f32_calc	56	static
+pid.c:205:5:pid_f32_reset_int	16	static

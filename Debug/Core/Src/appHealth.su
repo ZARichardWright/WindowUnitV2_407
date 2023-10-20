@@ -1,0 +1,5 @@
+appHealth.c:35:7:ScaleHealth	56	static
+appHealth.c:51:6:AddtoBand	16	static
+appHealth.c:65:6:ComputeStats	8	static
+appHealth.c:112:6:HAL_RTC_AlarmAEventCallback	40	static
+appHealth.c:272:6:StartHealthTask	16	static

@@ -1,0 +1,4 @@
+appDampers.c:32:6:stepper_half_drive	16	static
+appDampers.c:93:6:ProcessStepper	16	static
+appDampers.c:125:6:stepper_step_angle	32	static
+appDampers.c:167:6:StartDamperTask	32	static

@@ -1,0 +1,10 @@
+appDisplay.c:99:6:sdaPinToInput	32	static
+appDisplay.c:109:6:sdaPinToOut	32	static
+appDisplay.c:124:6:I2CStart	8	static
+appDisplay.c:132:6:I2Cask	16	static
+appDisplay.c:158:6:I2CStop	8	static
+appDisplay.c:167:6:Send_Command	24	static
+appDisplay.c:185:15:ReadKey	16	static
+appDisplay.c:212:6:Disp_Driver	16	static
+appDisplay.c:236:9:FeatchValue	24	static
+appDisplay.c:264:6:StartDisplayTask	104	static

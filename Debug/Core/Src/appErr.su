@@ -1,0 +1,2 @@
+appErr.c:49:6:DisplyLog	40	static
+appErr.c:86:6:StartErrCheckTask	104	static

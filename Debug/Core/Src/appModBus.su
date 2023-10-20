@@ -1,0 +1,3 @@
+appModBus.c:26:6:EnableSlave	8	static
+appModBus.c:35:6:EnableMaster	8	static
+appModBus.c:44:6:StartModbusTask	72	static
